@@ -1,1 +1,13 @@
 @import "tailwindcss";
+@font-face {
+    font-family: fon;
+    src: url(../Fonts/Anton/Anton-Regular.ttf);
+}
+@font-face {
+    font-family: Semi;
+    src: url(../Fonts/Anton/Bebas_Neue/BebasNeue-Regular.ttf);
+}
+@font-face {
+    font-family:slaky ;
+    src: url(../Fonts/Anton/Open_Sans/OpenSans-VariableFont_wdth\,wght.ttf);
+}
