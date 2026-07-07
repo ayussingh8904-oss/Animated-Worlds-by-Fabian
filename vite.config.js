@@ -4,5 +4,5 @@ export default defineConfig({
   plugins: [
     tailwindcss(),
   ],
-  base:'/Animated-Worlds-by-Fabian'
+  base:'/'
 })
