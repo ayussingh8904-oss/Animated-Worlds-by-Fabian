@@ -12,7 +12,7 @@ const Footer = () => {
         <h1 className='font-bold text-3xl md:text-2xl lg:text-2xl capitalize'>Art and excellence</h1>
      </div>
      <div className='align-middle justify-between grid grid-cols-2 sm:grid-cols-2'>
-        <h3 className='font-bold  ml-3 '>info@mysite.com</h3>        
+        <h3 className='font-bold  ml-3 mt-11 text-xl md:text-base lg:text-lg '>info@mysite.com</h3>        
      </div>
     
      </div>

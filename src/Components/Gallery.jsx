@@ -154,24 +154,24 @@ const Gallery = () => {
             <div className=' h-85 border-b-2 border-m-2 gap-3 overflow-hidden'>
             <div className='flex align-middle justify-between p-6'>
                 <div className='font-bold font-[slaky] capitalize ml-3'>
-                    <h3>Character Designs</h3>
-                    <p>Bringing Characters <br/> to  Life</p>
+                    <h3 className='text-sm md:text-base lg:text-lg'>Character Designs</h3>
+                    <p className='text-sm md:text-base lg:text-lg'>Bringing Characters <br/> to  Life</p>
                 </div>
                 <div className='font-bold font-[slaky] capitalize '>
-                        <h3>Background Art</h3>     
-                    <p>Creating Immersive <br/> Worlds</p>
+                        <h3 className='text-sm md:text-base lg:text-lg'>Background Art</h3>     
+                    <p className='text-sm md:text-base lg:text-lg'>Creating Immersive <br/> Worlds</p>
                 </div>
             </div>
             <div className='w-full h-2 bg-black rotate-90 scale-50 flex mt-5 overflow-hidden'></div>
 
             <div className='flex align-middle justify-between p-6 ml-2'>
                 <div className='font-bold font-[slaky] capitalize border-t-2 '>
-                    <h3>Concept Art</h3>
-                    <p>Imagining New Realms</p>
+                    <h3 className='text-sm md:text-base lg:text-lg'>Concept Art</h3>
+                    <p className='text-sm md:text-base lg:text-lg'>Imagining New Realms</p>
                 </div>
                 <div className='font-bold font-[slaky] capitalize border-t-2 ml-2'>
-                      <h3>Featured Projects</h3>
-                    <p>Noteworthy Creations</p>
+                      <h3 className='text-sm md:text-base lg:text-lg ml-8'>Featured Projects</h3>
+                    <p className='text-sm md:text-base lg:text-lg ml-8'>Noteworthy Creations</p>
                 </div>
             </div>
 
