@@ -114,7 +114,7 @@ const Artist = () => {
        {/* This is the line div */}
        <div className='grid grid-cols-1  w-full h-64 mt-7 overflow-hidden'>
         <h1  className='p-6 text-3xl md:text-5xl lg:text-4xl font-[slaky]'>Creative Website overview</h1>
-        <p className='text-sm md:text-base lg:text-lg w-150 p-6 -mt-10 font-[slaky] '>Fabian singh is an animation illustrator known for crafting visually stunning and emotionally resonant artwork for various media, including animated films, television shows, and video games. With expertise in character design, background art, and color theory, each illustration is a masterpiece that breathes life into animated worlds.</p>
+        <p className='text-sm md:text-base lg:text-lg p-6 -mt-12 font-[slaky] '>Fabian singh is an animation illustrator known for crafting visually stunning and emotionally resonant artwork for various media, including animated films, television shows, and video games. With expertise in character design, background art, and color theory, each illustration is a masterpiece that breathes life into animated worlds.</p>
        </div>
 
        <div className='w-full h-80 bg-amber-700 bg-[url(https://static.wixstatic.com/media/11062b_c3854340dfd1472184ab4e53650f15e0~mv2.jpg/v1/crop/x_182,y_0,w_2735,h_1744/fill/w_1882,h_1200,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/Spaceship.jpg)] bg-no-repeat bg-cover bg-center bg-fixed'>
